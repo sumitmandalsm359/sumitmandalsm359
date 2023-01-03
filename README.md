@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sumitmandalsm359
-- 🌱 I’m currently learning Computer science at Vellore Institute Of Technology, Vellore
+- 👋 Hi, I’m Sumit Kumar Mandal
+- 🌱 I’m currently Studying Computer science at Vellore Institute Of Technology, Vellore
 - 📫 How to reach me sumitmandalsm359@gmail.com and www.linkedin.com/in/sumitmandalsm359
 
 
